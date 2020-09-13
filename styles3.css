@@ -1,5 +1,6 @@
 body{
-    background-color: green;
+    background-image:url(fu3.jpg);
+    background-color: greenyellow;
     padding: 10px;
 }
 nav{
@@ -19,13 +20,11 @@ nav ul li a:hover{
 
 #nyuszikep{
     float: left;
-    border-style: dashed;
-    border-color:aqua;
-    border-width: medium;
 }
 p{
     text-align: justify;
     padding-left: 100px;
-    padding-top: 250px;
-    font-size: 30px;
+    margin-top: 250px;
+    font-size: 25px;
+    background-color: wheat;
 }

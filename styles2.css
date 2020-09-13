@@ -1,5 +1,5 @@
 body{
-    background-color: green;
+    background-color: greenyellow;
     padding: 10px;
 }
 nav{
@@ -14,13 +14,13 @@ nav ul li{
 }
 nav ul li a:hover{
     text-decoration: underline;
-    color: red;
+    color:red;
 }
 
 #nyuszikep{
     float: left;
-    border-style: dashed;
-    border-color:aqua;
+    border-style:double;
+    border-color:green;
     border-width: medium;
 }
 p{

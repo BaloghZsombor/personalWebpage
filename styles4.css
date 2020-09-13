@@ -17,15 +17,7 @@ nav ul li a:hover{
     color: red;
 }
 
-#nyuszikep{
-    float: left;
-    border-style: dashed;
-    border-color:aqua;
-    border-width: medium;
-}
-p{
-    text-align: justify;
-    padding-left: 100px;
-    padding-top: 250px;
-    font-size: 30px;
+#nyuszigif{
+    padding: 300px;
+    padding-left: 850px;
 }
